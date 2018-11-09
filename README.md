@@ -11,4 +11,4 @@ Ce projet montre un exemple d'application web JEE qui permet de gérer des compt
 - Sécuriser l'application en utilisant Spring Security.
 
 
-video du projet : https://www.youtube.com/watch?v=u2z-oTMAVKY
+video du projet : https://www.youtube.com/watch?v=u2z-oTMAVKY on est la
